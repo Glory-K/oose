@@ -11,9 +11,10 @@
   </style>
 </head>
 <body>
-<a href="/front/member/regist" style="font-family: 'Do Hyeon', sans-serif;">회원 등록</a>
-<br>
-<a href="/front/member/list" style="font-family: 'Do Hyeon', sans-serif;">회원 조회</a>
+         
+         //<a href="/front/locker/regist" style="font-family: 'Do Hyeon', sans-serif,">사물함 등록</a>
+         <a href="/front/member/regist" style="font-family: 'Do Hyeon', sans-serif;">회원 등록</a>
+<br>     <a href="/front/member/list" style="font-family: 'Do Hyeon', sans-serif;">회원 조회</a>
 
 </body>
 </html>
